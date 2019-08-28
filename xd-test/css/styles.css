@@ -1,0 +1,201 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html {
+	max-width: 1920px;
+}
+body {
+	width: 95%;
+}
+
+img {
+	width:100%;
+}
+
+.canvas {
+	position:relative
+}
+
+#returnToStart {
+	position:absolute;
+	left:0;
+	top:0;
+	width:100%;
+	height:100px;
+}
+
+#button1 {
+	position:absolute;
+	left:6%;
+	top:35%;
+	width:30%;
+	height:30px;
+}
+
+#button2 {
+	position:absolute;
+	left:4%;
+	top:18%;
+	width:30%;
+	height:5%;
+}
+
+#button3 {
+	position:absolute;
+	left:35%;
+	top:87%;
+	width:3%;
+	height:3%;
+}
+
+#button4 {
+	position:absolute;
+	left:7.5%;
+	top:34.5%;
+	width:1%;
+	height:1%;
+}
+
+#button5 {
+	position:absolute;
+	left:7.5%;
+	top:40%;
+	width:4%;
+	height:3%;
+}
+
+#button6 {
+	position:absolute;
+	left:33%;
+	top:17%;
+	width:5%;
+	height:3%;
+}
+
+#button7 {
+	position:absolute;
+	left:9.5%;
+	top:51.5%;
+	width:20%;
+	height:3%;
+}
+
+#button8 {
+	position:absolute;
+	left:4.2%;
+	top:21.2%;
+	width:31%;
+	height:12%;
+}
+
+#button9 {
+	position:absolute;
+	left:29.5%;
+	top:40%;
+	width:4.5%;
+	height:3%;
+}
+
+#button10 {
+	position:absolute;
+	left:32%;
+	top:21%;
+	width:4.5%;
+	height:3%;
+}
+
+#button11 {
+	position:absolute;
+	left:6%;
+	top:40%;
+	width:30%;
+	height:2.5%;
+}
+
+#button12 {
+	position:absolute;
+	left:4%;
+	top:18%;
+	width:30%;
+	height:5%;
+}
+
+#button13 {
+	position:absolute;
+	left:35%;
+	top:87%;
+	width:3%;
+	height:3%;
+}
+
+#button14 {
+	position:absolute;
+	left:21%;
+	top:52%;
+	width:6%;
+	height:3%;
+}
+
+#button15 {
+	position:absolute;
+	left:15%;
+	top:50%;
+	width:12%;
+	height:4%;
+}
+
+#button16 {
+	position:absolute;
+	left:7.5%;
+	top:35%;
+	width:1%;
+	height:1%;
+}
+
+#button17 {
+	position:absolute;
+	left:7.75%;
+	top:40%;
+	width:3%;
+	height:3%;
+}
+
+#button19 {
+	position:absolute;
+	left:9.5%;
+	top:51.5%;
+	width:20%;
+	height:3%;
+}
+
+#button20 {
+	position:absolute;
+	left:4.2%;
+	top:21.2%;
+	width:31%;
+	height:12%;
+}
+
+#button21 {
+	position:absolute;
+	left:29.5%;
+	top:40%;
+	width:4.5%;
+	height:3%;
+}
+
+#button22 {
+	position:absolute;
+	left:32%;
+	top:21%;
+	width:4.5%;
+	height:3%;
+}
+
+#button23{
+	position:absolute;
+	left:5%;
+	top:13%;
+	width:3%;
+	height:2%;
+}
